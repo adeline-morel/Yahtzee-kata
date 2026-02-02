@@ -6,7 +6,7 @@ Base pour coder les règles du jeu du Yahtzee (configuré pour une résolution e
 - faire compiler en créant les classes, objets, méthodes,...
 - ne pas tout de suite implémenter la solution : vérifier d'abord que le test fail
 - implémenter la solution la plus simple et rapide pour faire passer le test
-- si le test passe, possibilité à ce stage de refactorer le code (refactorings autorisés pour les tests = encapsulation pour séparer les responsabilités, nommage des tests)
+- si le test passe, possibilité à ce stade de refactorer le code (refactorings autorisés pour les tests = encapsulation pour séparer les responsabilités, nommage des tests)
 - décommenter le second test et... ainsi de suite. La seule chose qui change est qu'il faudra maintenant relancer TOUS les tests, et seul le nouveau test doit suivre le cycle décrit précédemment (si un test précédent repasse au rouge = j'ai introduit une régression).
 - Si le nouveau test décommenté passe directement au vert : je suis allé trop loin dans mon step précédent. Dans ce cas, revenir en arrière pour essayer de faire un plus petit step.
 
